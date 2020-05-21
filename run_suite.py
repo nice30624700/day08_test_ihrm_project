@@ -20,4 +20,5 @@ file_name = "ihrm"
 # log_path - 保存路径
 BeautifulReport(suite).report(description='The IHEM Employee Modul Test Report', filename=file_name, log_path='./report')
 
-print("测试增加一行代码后，试试看会不会触发轮询构建")
+print("我单纯是想试试我这个方法可不可行!")
+
